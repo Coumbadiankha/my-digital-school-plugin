@@ -1,2 +1,2 @@
-# mly-digital-school-pluginPlugins
+# my-digital-school-pluginPlugins
  
