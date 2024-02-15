@@ -1,0 +1,17 @@
+{
+    "name": "my-digital-school-plugin",
+    "type": "composer-plugin",
+    "license": "ISC",
+    "autoload": {
+        "psr-4": {
+            "MyDigitalSchoolPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Coumbadiankha",
+            "email": "coumba.diankha@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
